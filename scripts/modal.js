@@ -1,64 +1,39 @@
 $(document).ready(function() {
   // MODAL
   var modalText = {
-    discover: {
-      title: 'ChowNow Discover',
-      tag: 'FOOD ORDERING PLATFORM.',
+    segmentation: {
+      title: '3D Segmentation',
+      tag: 'IA / MACHINE LEARNING.',
       detail:
-        'ChowNow Discover is a platform that lets customers discover new local restaurants and provides business owners with tools to convert first time orders into lifelong diners.',
+        'Use of neuronal network for the 3D segmentation of leg muscles.',
       link: 'https://eat.chownow.com/'
     },
-    ordering: {
-      title: 'ChowNow Ordering Web',
-      tag: 'WHITE-LABEL ONLINE ORDERING SOLUTION.',
+    bazoom: {
+      title: 'Bazoom',
+      tag: 'Online Social Jukebox',
       detail:
-        'ChowNow is a commission-free online ordering system and food ordering app helping restaurants feed their hungry customers.',
+        'Bazoom is a social jukebox working with Youtube API.',
       link: 'https://direct.chownow.com/direct/195/locations/260'
     },
-    newrelic: {
-      title: 'NewRelic.com',
-      tag: 'APPLICATION PERFORMANCE MONITORING.',
+    yooup: {
+      title: 'Yoo Up Control',
+      tag: 'TABLET SOFTWARE APPLICATION .',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
+        'Use of a Raspberry Pi + Java Application to control screen height and options.  .',
       link: 'http://www.newrelic.com'
     },
-    roambi: {
-      title: 'Roambi.com',
-      tag: 'BUSINESS ANALYTICS.',
+    anon: {
+      title: 'Anon Browser',
+      tag: 'BROWSER SHOWING INFORMATION OF DB',
       detail:
-        'Roambi provides analytics, reporting, and business intelligence for companies to use on the go. A Wordpress hosted site written in PHP and Javascript with Hubspot Integration.',
+        'This is a client project based on browsing and showing informations.',
       link: 'http://www.roambi.com'
     },
-    walker: {
-      title: 'WalkerTracker',
-      tag: 'PERFORMANCE METRICS.',
+    talisman: {
+      title: 'Talisman',
+      tag: '2D RETRO GAME',
       detail:
-        'Walker Tracker offers goal management, fitness tracking, and team competitions to companies for internal use. A Ruby on Rails and Javascript companion site for the Walker Tracker App. Features visual metrics and gamified progression system.'
-    },
-    powur: {
-      title: 'Powur.com',
-      tag: 'CONSUMER POWERED MARKETING.',
-      detail:
-        'Powur is a marketing platform for lead generation, recruitment, and team building. Built with Ruby on Rails and Angular-UI. Makes use of Angular-material for front-end visuals. Features complex user tree heiarchy and commission system.',
-      link: 'http://www.powur.com/with/42'
-    },
-    mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail:
-        'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.'
-    },
-    never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail:
-        'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.'
-    },
-    themall: {
-      title: 'The Mall',
-      tag: 'PEER GUIDED SHOPPING.',
-      detail:
-        'The Mall is a place to follow the latest fashion purchases of your friends and favorite celebrities. Built with Node.js and Handlebars. Features the ability to import thousands of top brands products into one shopping site.'
+        'Talisman is a 2D retro game developped from scratch without any game engine or librairie.'
     }
   };
 
