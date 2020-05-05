@@ -6,28 +6,28 @@ $(document).ready(function() {
       tag: 'IA / MACHINE LEARNING.',
       detail:
         'Use of neuronal network for the 3D segmentation of leg muscles.',
-      link: 'https://eat.chownow.com/'
+      link: ''
     },
     bazoom: {
       title: 'Bazoom',
       tag: 'Online Social Jukebox',
       detail:
         'Bazoom is a social jukebox working with Youtube API.',
-      link: 'https://direct.chownow.com/direct/195/locations/260'
+      link: ''
     },
     yooup: {
       title: 'Yoo Up Control',
       tag: 'TABLET SOFTWARE APPLICATION .',
       detail:
         'Use of a Raspberry Pi + Java Application to control screen height and options.  .',
-      link: 'http://www.newrelic.com'
+      link: ''
     },
     anon: {
       title: 'Anon Browser',
       tag: 'BROWSER SHOWING INFORMATION OF DB',
       detail:
         'This is a client project based on browsing and showing informations.',
-      link: 'http://www.roambi.com'
+      link: ''
     },
     talisman: {
       title: 'Talisman',
